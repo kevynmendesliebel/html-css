@@ -110,7 +110,7 @@ nav a:hover {
 }
 
 .irina  {
-    max-width: 500px;
+    max-width: 765px;
     min-width: 300px;
     margin: auto;
     display: block;
@@ -173,11 +173,11 @@ article {
 
 }
 
-
 div.video {
     background-color: var(--cor06);
-    margin: 0px 0px 35px 0px;
-    padding: 208px;
+    margin: 0px 0px 30px -2px;
+    padding: 20px;
+    padding-bottom: 58%;
     position: relative;
 }
 
@@ -188,8 +188,6 @@ div.video > iframe {
     width: 94%;
     height: 83%;
 } 
-
-
 
 footer {
     background-color: var(--cor06);
